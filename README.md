@@ -39,3 +39,6 @@ node bamazonCustomer.js
 
 ###### Output for when user decides they no longer want to place additional orders
 ![FourthScreenshot](/4.PNG)
+
+###### Output in case the user wants to buy inventory for items that are out of stock
+![FifthScreenshot](/5.PNG)
