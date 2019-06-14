@@ -26,3 +26,16 @@ node bamazonCustomer.js
 
 ###### Functional output
 
+
+###### Application displaying all items in inventory
+![FirstScreenshot](/1.PNG)
+
+###### Output with input from user and order processing, price for order included
+
+![SecondScreenshot](/2.PNG)
+
+###### Output for when user decides to place a second order, database updated
+![ThirdScreenshot](/3.PNG)
+
+###### Output for when user decides they no longer want to place additional orders
+![FourthScreenshot](/4.PNG)
