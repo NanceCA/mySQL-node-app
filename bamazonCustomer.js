@@ -1,8 +1,7 @@
 //requiring mysql and inquirer for the CLI
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-var key = require("./keys.js");
-
+var entry = require("./entry.js");
 
 //----------STARTING CONNECTION TO MYSQL --------//
 var connection = mysql.createConnection({
@@ -13,7 +12,7 @@ var connection = mysql.createConnection({
 
     user: "root",
 
-    password: key,
+    password: entry,
     database: "bamazon"
 });
 
